@@ -31,7 +31,7 @@ This project is designed to import market data from the EU Market API, clean and
 - **Requests**: For making API calls to fetch data from the EU Market API.
 
 ## Data Flow
-![Alt Text]("ETL.png")
+![Data Flow](ETL.png)
 
 
 
