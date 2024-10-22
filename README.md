@@ -25,7 +25,7 @@ This project is designed to import market data from the EU Market API, clean and
 
 - **Python**: Main programming language for data processing and cleaning.
 - **pandas**: For data manipulation and cleaning.
-- **psycopg2** or **SQLAlchemy**: To connect and interact with PostgreSQL.
+- **psycopg2** and **SQLAlchemy**: To connect and interact with PostgreSQL.
 - **PostgreSQL**: Database for storing cleaned data.
 - **Power BI**: For visualizing the data and creating dashboards.
 - **Requests**: For making API calls to fetch data from the EU Market API.
