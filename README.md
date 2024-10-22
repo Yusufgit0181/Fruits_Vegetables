@@ -37,4 +37,4 @@ This project is designed to import market data from the EU Market API, clean and
 
 ## Visualizing Data
 
-![Alt Text]("Power BI Fruits & Vegetables.png")
+![Alt Text]("Power_BI_Fruits_&_Vegetables.png")
